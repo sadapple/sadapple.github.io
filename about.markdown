@@ -3,20 +3,18 @@ title: about
 layout: page
 ---
 
-a
-
-> Minimalist | Appleist | Unixer | Coder
+> Stat | Mathematics | Programming | Hiking
 
 who involved in 
 
-> [github](https://github.com/waynezhang)
+> [github](https://github.com/sadapple)
 
 mail 
 
-> echo srvpqxfbyqfvpdtkbjwt | tr yxwvtsrqpkjfdb zuonmlihgeca@.
+> echo abcdefgchidijkldgfmanl  | tr abcdefghijklmn chuanlist@gm.o
 
 or follow 
 
-> [@o_lll](https://twitter.com/#!/o_lll)
+> [proudwolflc](https://twitter.com/proudwolflc)
 
 to reach me
