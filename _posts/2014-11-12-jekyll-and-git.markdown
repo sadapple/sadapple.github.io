@@ -11,7 +11,7 @@ tags:
 
 When I traveled to Acadia this August, one friend was suspious about
 the visibility of the milky way there during summer. And that night, I
-found this proof.
+found this proof on the internet.
 
 From last night, I studied how to use jekyll and git together to write
 a blog and it seems rather interesting and promising. I use the whole
