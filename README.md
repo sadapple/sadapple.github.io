@@ -1,3 +1,7 @@
+*This template is originally created by Linghua Zhang, and this is
+[Linghua Zhang's blog](http://lhzhang.com/). I also include his
+original README text below.*
+
 Feel free to fork.
 Please keep the link in the bottom.
 
