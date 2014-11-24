@@ -9,6 +9,10 @@ tags:
 
 
 # On Habits
+
+I read the book *The Power of Habit* recently and here present some notes
+in this post.
+
 ## 1. Elements of habit
 Cue, Routine, Reward, Cravings
 ## 2. How habits are formed
