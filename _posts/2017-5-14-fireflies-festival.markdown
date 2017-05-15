@@ -11,10 +11,10 @@ tags:
 This is a planner file for our June trip to the **synchronous fireflies festival**. Currently it is still an outline and is very incomplete but I will expand it to the level which satisfies our need. If you want to address any particular thing in the planner, please let me know : )
 
 
-## 相关信息
+## 1. 相关信息
 
 
-### 关于共鸣萤火虫
+### 1.1 关于共鸣萤火虫
 
 
 The Synchronous Firefly (Photinus carolinus) and the Blue Ghost Firefly (Phausis reticulata) are two species that are found only in the Southern Appalachian Mountains which include the Great Smokies. And during the short mating season in late May and early June, both firefly species put on quite a show to behold! The male Synchronous Fireflies flash their little green-yellow bioluminescent lanterns in unison for about 6-8 blinks and then they go dark for a few seconds creating a sublime wave of light throughout the forest. The male Blue Ghost Fireflies don’t flash their blue-white lanterns, instead they glow continuously just a few inches above the ground. The ethereal experience of either nighttime show should be on everyone’s bucket list! National Park scientists mostly use air and soil temperatures to predict the timing of each year’s mating season.
@@ -23,21 +23,21 @@ One of the most popular places to view the Synchronous Fireflies is in Elkmont i
 
 [来自朋友的sample照片一张](http://weibo.com/1957491335/CmwPXr9TI?type=comment#_rnd1494805600914) （因为是夜间，需要较好的拍照技术….）
 
-### 蓝岭高速 Blue Ridge Parkway
+### 1.2 蓝岭高速 Blue Ridge Parkway
 
 [offcial website](http://www.blueridgeparkway.org/index.php)
 
 [路上的风景照sample一张](http://weibo.com/1957491335/CmzaRh66o%20)
 
-### 大烟山/大雾山
+### 1.3 大烟山/大雾山
 
 
 This is the [official webiste](https://www.nps.gov/grsm/index.htm) for the Great Smoky Mountain national park. For a map of the park, click [here](https://www.nps.gov/grsm/planyourvisit/upload/grsmmap2-2.pdf).
 
-### Nashville?(under discussion)
+### 1.4 Nashville?(under discussion)
 
 
-### 住店
+### 1.5 住店
 
 
 #### 六月二日
@@ -50,12 +50,12 @@ This is the [official webiste](https://www.nps.gov/grsm/index.htm) for the Great
 
 #### 六月五日
 
-### 租车
+### 1.6 租车
 
 
 目前六个人的话可以考虑租一辆大一点的车。
 
-### 其他相隔不远可以考虑的去处
+### 1.7 其他相隔不远可以考虑的去处
 
 
 #### 从大烟山到Nashville路上
@@ -75,15 +75,15 @@ This is the [official webiste](https://www.nps.gov/grsm/index.htm) for the Great
 Linville Falls
 
 
-## 行程安排
+## 2. 行程安排
 
 
-### 六月二日
+### 2.1 六月二日
 
 
 出发赶路
 
-### 六月三日
+### 2.2 六月三日
 
 赶路
 
@@ -91,7 +91,7 @@ Linville Falls
 
 到达大烟山
 
-### 六月四日
+### 2.3 六月四日
 
 
 Clingmans Dome 据说是看日出的好去处，有小伙伴感兴趣的话可以安排。
@@ -102,13 +102,13 @@ The Sinks
 
 晚上Fireflies event
 
-### 六月五日
+### 2.4 六月五日
 
 Nashville?
 
 赶路回家
 
-### 六月六日
+### 2.5 六月六日
 
 赶路到家
 
