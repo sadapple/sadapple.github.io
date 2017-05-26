@@ -42,19 +42,14 @@ Nashville直接赶路开回罗格斯要十三个小时，从目前我们的时�
 
 
 #### 六月二日
-住VA的Roanoke city
+住VA的Roanoke city, Hotel为Days Inn
 #### 六月三日 至 六月四日
-
 
 [大雾山国家公园附近](https://smokymountains.com/lodging/29138593/?checkin=06/03/2017&checkout=06/05/2017&guests=6&dp=MTE5)
 
 
-#### 六月五日
-DC附近？
 ### 1.6 租车
-
-
-目前七个人的话可以考虑租一辆miniVan，这两天看了下附近租车公司miniVan的价格大约是75-85刀一天。
+已租一辆miniVan
 
 ### 1.7 其他相隔不远可以考虑的去处
 
@@ -101,13 +96,7 @@ The Sinks
 
 ### 2.4 六月五日
 
-如果不去Nashville的话，可以考虑过NC的biltmore estate 或者 VA的 Shenandoah national park看一看。
-
-可以考虑到达DC附近住店。
-
-### 2.5 六月六日
-
-下午三点前到家。
+早上出发赶路回家，当晚回到NJ
 
 
 ## 3. 装备推荐
@@ -125,3 +114,7 @@ The Sinks
 在大雾山里会走一些trail，所以轻便的鞋或者登山杖有的话可以带上
 
 喜欢/会拍照的可以带上微单或者单反
+
+想给朋友寄明信片的可以提前备好邮票，我去过的大部分国家公园里的store里不卖邮票
+
+*GPS*
