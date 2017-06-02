@@ -34,11 +34,7 @@ One of the most popular places to view the Synchronous Fireflies is in Elkmont i
 
 This is the [official webiste](https://www.nps.gov/grsm/index.htm) for the Great Smoky Mountain national park. For a map of the park, click [here](https://www.nps.gov/grsm/planyourvisit/upload/grsmmap2-2.pdf).
 
-### 1.4 Nashville?(under discussion)
-Nashville直接赶路开回罗格斯要十三个小时，从目前我们的时间安排看，因为四号晚上参加fireflies festival的安排不可能变，所以五号去Nashville的话到那边大概是五号中午，再看一看景点的话从Nashville出发应该要下午或者晚上了，这样六号下午赶回学校的话时间有点紧。所以我想听听大家的想法，比如说，有没有谁特别想去Nashville这个乡村音乐之都的？ 
-如果最后不去Nashville，我们可以看看回程路上的景点，比如NC的biltmore estate或者蓝岭公路的前半段上（位于VA)的景点。
-
-### 1.5 住店
+### 1.4 住店
 
 
 #### 六月二日
@@ -48,28 +44,16 @@ Nashville直接赶路开回罗格斯要十三个小时，从目前我们的时�
 [大雾山国家公园附近](https://smokymountains.com/lodging/29138593/?checkin=06/03/2017&checkout=06/05/2017&guests=6&dp=MTE5)
 
 
-### 1.6 租车
+### 1.5 租车
 已租一辆miniVan
 
 ### 1.7 其他相隔不远可以考虑的去处
-
-
-#### 北卡
 
 
 [biltmore estate](http://www.biltmore.com/visit)
 
 Linville Falls
 
-
-#### 从大烟山到Nashville路上
-
-
-两个瀑布
-
-[Ozone Falls](https://s-media-cache-ak0.pinimg.com/originals/e8/c4/f4/e8c4f416b89c07f3a0dd83a3fc459f2e.jpg)
-
-[Greeter Falls](https://s-media-cache-ak0.pinimg.com/originals/67/df/01/67df010731c3d788db7840f678f49a80.jpg)
 
 ## 2. 行程安排
 
@@ -117,4 +101,5 @@ The Sinks
 
 想给朋友寄明信片的可以提前备好邮票，我去过的大部分国家公园里的store里不卖邮票
 
+冰块和cooler
 *GPS*
