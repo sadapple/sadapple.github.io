@@ -1,27 +1,30 @@
-
 * 准备工作
-
-** 衣
-   - 浮潜设备
-   - 短衣短裤，比基尼，脸基尼？
-   - 冲锋衣
-   - insect repellent
-** 食
-
-** 住
-
-** 行
-
-*** 汽车
-
-*** 自行车
-
-*** 直升机？
-
+** 建议准备的物品清单
+*** 衣
+    - 短衣短裤 或 其他凉爽衣裤
+    - 泳衣泳裤（最好两套）
+    - 保暖一点的衣服，比如hard shell冲锋衣（在山上，清晨或晚上用），如果要去Mauna Kea Summit 天文台的话我看到有人建议穿羽绒服的...
+    - 帽子
+    - 拖鞋
+    - 背包和小包
+*** 食
+    - 锅爱神？
+*** 行
+     - water-resistant sunscreen (SPF 30 或更高)
+     - 浮潜设备
+     - 摄像摄影器材，有相机的可以考虑带备用电池
+     - 移动硬盘
+     - 充电宝
+     - insect/mosquito repellent
+     - hiking 用闪光灯
+     - 国家公园 Passport （有的话带上盖戳用）
+** 地图
+   大岛的免费地图可以在 [[https://moon.com/maps/us/hawaii/big-island-of-hawaii/#kona][这里]] 下载到
 * 玩点推荐
 
 ** Hawaii Volcanoes National Park
-
+   - Kilauea Volcano
+   - Mauna Loa Volcano
 ** 其他火山
 
 *** Mauna Kea
@@ -37,6 +40,9 @@
    看海龟
 
 ** Akaka Falls State Park
+
+** South Point Park
+   
 * 行程安排
 ** 7-23
 ** 7-24
@@ -48,5 +54,7 @@
 ** 7-30
 
 * 其他
-
+  - 明信片(当地买)
+  - 邮票（可以先备好）
+  - 娱乐相关：桌游？
 
