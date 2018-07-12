@@ -1,3 +1,4 @@
+#+TITLE: 锅爱在夏威夷-2018
 * 准备工作
 ** 建议准备的物品清单
 *** 衣
@@ -20,6 +21,9 @@
      - 国家公园 Passport （有的话带上盖戳用）
 ** 地图
    大岛的免费地图可以在 [[https://moon.com/maps/us/hawaii/big-island-of-hawaii/#kona][这里]] 下载到
+** 租车
+   Mauna Kea Summit自驾的话要求四驱，现在三辆车可能不容易全部改成四驱，且改成四驱的费用大概率翻倍，有些租车公司甚至规定不让租车开上summit。
+   所以可以考虑我们在大岛单租一天可以上summit的四驱。我做了一点study，网上比较推荐 [[http://www.harpershawaii.com/4wd.html][这一家]]。  
 * 玩点推荐
 
 ** Hawaii Volcanoes National Park
@@ -31,6 +35,7 @@
 
 ** Mauna Kea 天文台
    游客中心大约海拔2800m，从那上到summit开车必须4WD，如果车不行的话据说可以报tour上去。
+   关于tour [[https://www.lovebigisland.com/stargazing/][这里]] 有一些信息。
 ** Waipio Valley
    Waipio Valley 里的 Waipio 在土著语中本意 *弯曲的河*, 此外也被称为国王谷。
    开车下到谷底的话必须4WD，所以我们可以考虑hiking下去，时间据说大概两小时。
@@ -47,17 +52,64 @@
 ** 直升机 tour
    
 * 行程安排
-** 7-23
-** 7-24
-** 7-25
-** 7-26
-** 7-27
-** 7-28
-** 7-29
-** 7-30
+** 7.24 Day 1 初来乍到
+参观Kailua-kona小镇，Shopping，寻找当地美食，接送小伙伴
+
+酒店附近玩，Mauna Lani的沙滩（可浮潜）
+
+可选活动：
+Hapuna beach state park （这里是夏威夷最白沙滩）
+Waikoloa 岩滑
+Kalahuipua’a historic trail 古道
+
+[[file:Day-1.jpg]]
+** 7.25 Day 2 Hilo-Mauna Kea 观星之旅
+
+前往Hilo，在天黑前到达Mauna Kea的Visitor center
+[[file:Day-2.jpg]]
+** 7.26 Day 3 黑沙滩南部之旅
+
+主要景点：绿沙滩，最南角South Point，黑沙滩
+
+沿途：Captain Cook Monument
+
+可选：浮潜，跳崖
+
+[[file:Day-3.jpg]]
+
+** 7.27 Day 4 火山熔岩之旅
+
+夏威夷火山公园。公园目前环绕火山的部分是关闭的，仅有南边的 Kahuku Unit 开放。如果要看火山可以考虑直升机 tour。
+公园最新的alert信息可以看 [[https://www.nps.gov/havo/2018-closure.htm][这里]]。 
+
+[[file:Day-4-1.jpg]]
+
+[[file:Day-4-2.jpg]]
+
+
+** 7.28 Day 5 国王谷Wapio Valley 徒步之旅
+
+主要景点：国王谷 scenic hiking trail with ocean view
+
+沿途：Hapuna beach state park 最白沙滩 
+
+[[file:Day-5.jpg]]
+
+** 7.29 Day 6 Kailua-kona小镇之旅
+
+收拾屋子，Check-out. 
+Kailua-kona小镇参观
+
+可选活动
+码头
+Magic sands beach park. (近机场)
+参观咖啡种植园
+
+[[file:Day-6.jpg]]
 
 * 其他
   - 明信片(当地买)
   - 邮票（可以先备好）
   - 娱乐相关：桌游？
+
 
