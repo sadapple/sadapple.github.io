@@ -5,11 +5,11 @@
     - 短衣短裤 或 其他凉爽衣裤
     - 泳衣泳裤（最好两套）
     - 保暖一点的衣服，比如hard shell冲锋衣（在山上，清晨或晚上用），如果要去Mauna Kea Summit 天文台的话我看到有人建议穿羽绒服的...
+    - 雨衣，如果坐boat tour的话衣服是大概率被打湿的
     - 帽子
     - 拖鞋
+    - hiking用的鞋子
     - 背包和小包
-*** 食
-    - 锅爱神？
 *** 行
      - water-resistant sunscreen (SPF 30 或更高)
      - 浮潜设备
@@ -63,7 +63,9 @@
 *** 新泽西小队清单
     - 锅爱神
     - 粽子
+    - 现金
 *** 西雅图小队清单
+    - 现金
 *** 祖龙小队清单
 ** 地图
    大岛的免费地图可以在 [[https://moon.com/maps/us/hawaii/big-island-of-hawaii/#kona][这里]] 下载到
@@ -78,7 +80,7 @@
 
      公园目前除了南边的 Kahuku Unit，其他区域处于关闭状态
 ** 其他火山相关活动
-   因为火山国家公园最著名的环火山区关闭，所以看lava有一下几个选择
+   因为火山国家公园最著名的环火山区关闭，所以看lava有以下几个选择
 *** 直升机 tour
     有一家叫blue Hawaii helicopter的公司， 网站 [[https://www.bluehawaiian.com/][在这里]] 。时间大约五十分钟。
     除了火山lava之外也可以看到一些瀑布。
@@ -107,8 +109,8 @@
 
     所以陆地上的话在Pahoa附近夜晚应该是比较容易看到lava glow的，但是陆地上的lava hiking现在是被禁止的。
 ** Mauna Kea 观星
-   游客中心大约海拔2800m，从那上到summit开车必须4WD，如果车不行的话据说可以报tour上去。
-   关于tour [[https://www.lovebigisland.com/stargazing/][这里]] 有一些信息。
+   游客中心大约海拔2800m，从那上到summit开车必须4WD，如果车不行的话可以报tour上去，但是不便宜且有限制，我的考虑是单租一天的4WD我们自己上去。
+   关于summit [[https://www.lovebigisland.com/stargazing/][这里]] 有一些信息。 4WD租车的话请看上面的 *租车* 小节。
 ** Waipio Valley
    Waipio Valley 里的 Waipio 在土著语中本意 *弯曲的河*, 此外也被称为国王谷。
    开车下到谷底的话必须4WD，所以我们可以考虑hiking下去，时间据说大概两小时。
