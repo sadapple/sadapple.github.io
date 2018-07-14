@@ -64,7 +64,7 @@
     - 锅爱神
     - 粽子
     - 现金
-*** 西雅图小队清单
+*** 西雅图洛杉矶小队清单
     - 现金
 *** 祖龙小队清单
 ** 地图
@@ -88,7 +88,7 @@
     其实国家公园官网有一个关于eruption的update视频，大家可以看一看，直升机上看火山大概就是那个样子。视频链接在 [[https://www.nps.gov/media/video/view.htm?id=2BAB933C-1DD8-B71B-0B382F87B9E61717][这里]] 。
 *** Lava Boat Tours
     直升机之外的另一个选择, 具体的tour有sunrise, sunset, morning lava, day time 可选，时间大约三小时。
-    网站可参考 [[http://www.hawaiianlavaboattours.com/][这里]] 和 [[http://seelava.com/big-island-boat-tours/lava-boat-tour/][这里]]。 
+    网站可参考 [[http://www.hawaiianlavaboattours.com/][这里]] ，[[http://www.kalapanaculturaltours.com/][这里]] 和 [[http://seelava.com/big-island-boat-tours/lava-boat-tour/][这里]]。 
 
     目前能坐直升机tour的人不多，所以让大家一起行动的话这是一个可以考虑的选择。
     
@@ -107,7 +107,32 @@
     see the glow at night from downtown. not only that, you'll be spending money
     in a community that needs it to help recover.
 
-    所以陆地上的话在Pahoa附近夜晚应该是比较容易看到lava glow的，但是陆地上的lava hiking现在是被禁止的。
+    陆地上的话在Pahoa和Kalapana附近应该是有一些地方可以看到lava的。根据下面网友
+    的叙述，Kalapana lava fields可能现在是部分accessible了。
+
+    Kalapana有一个 [[https://wanderwisdom.com/travel-destinations/Hidden-Hawaii-The-festive-night-market-in-Kalapana-on-the-Big-Island][farmer's market]] ，好像重新开放了，时间是周三下午五点到晚上十
+    点，对应我们去的那一周的25号（那儿据说有 fresh produce，tasty food 还有 live
+    music。寸大哥是赶不上了...）。
+
+    local 网友 comment 1:
+
+    They just reopened Highway 130 south this afternoon, so if you want to hike
+    the Kalapana lava fields to the ocean, you can now do that legally. Just
+    stay out of the restricted areas in and around the Puna district and save
+    yourself some criminal penalties, fines and possible jail time (if you've
+    ever seen the Hilo county jail house on Waianuenue Avenue, you'll be
+    motivated to stay out of trouble at all costs.)
+
+
+    local 网友 comment 2:
+
+    New cool flows basically rock, but not the liquid runoff you see on tv.
+    Please don't try to circumvent the checkpoints. You will be fined $5000 and
+    up to 1 year in jail if the judge decides.
+
+    It is cheaper to pay the $200 helicopter tour vs a $5k fine. Which will give
+    you a much better view from the air than it would be through the bush.
+
 ** Mauna Kea 观星
    游客中心大约海拔2800m，从那上到summit开车必须4WD，如果车不行的话可以报tour上去，但是不便宜且有限制，我的考虑是单租一天的4WD我们自己上去。
    关于summit [[https://www.lovebigisland.com/stargazing/][这里]] 有一些信息。 4WD租车的话请看上面的 *租车* 小节。
@@ -124,7 +149,21 @@
 
 ** South Point Park
 
-   
+** Night Farmer's Market
+Residents of the Big Island's lower Puna love Wednesdays. Why, you ask? Because
+that's when the weekly farmers' market at Uncle Robert’s happens! Uncle Robert
+Keli'iho'omalu is the legendary and beloved patriarch of the old Kalapana
+village, and the market takes place at his family compound, located at the south
+end of the Red Road near the New Kaimu Black Sand Beach. Normally it’s a quiet
+neighborhood of quaint beach shacks and lush coconut groves, but on Wednesday
+night it transforms into a huge open-air market bustling with people eager for
+fresh produce, tasty food, and live music. It’s a lively market full of
+wonderful sounds, sights, and smells—not to mention lots of friendly aloha
+spirit—and everyone is welcome.
+
+  *Hours* : The Kalapana farmers' market runs every Wednesday night from 5 PM to 10 PM. 
+
+链接戳 [[https://wanderwisdom.com/travel-destinations/Hidden-Hawaii-The-festive-night-market-in-Kalapana-on-the-Big-Island][这里]]
 * 行程安排
 ** 7.24 Day 1 初来乍到
 参观Kailua-kona小镇，Shopping，寻找当地美食，接送小伙伴
@@ -192,9 +231,12 @@ Magic sands beach park. (近机场)
 ** 有用的链接
 
    - [[https://www.nps.gov/havo/index.htm][火山国家公园官网]] 我们到的时候环火山区依然应该关闭，但这个网站的volcano alert信息可以适当关注。
+   - [[https://volcanoes.usgs.gov/volcanoes/kilauea/multimedia_maps.html][Volcano Hazard Map]]  可以了解volcano lava flow 和 fissure 的情况
    - [[http://www.harpershawaii.com/4wd.html][一个大岛当地提供租4WD的网站]] 
    - [[https://www.lovebigisland.com/stargazing/][Mauna Kea Summit Tour]] 我们应该不报tour，但这个网站提供的一些summit的信息可以参考。
    - [[http://www.hawaiianlavaboattours.com/][Lava Boat Tour 1]] 
    - [[http://seelava.com/big-island-boat-tours/lava-boat-tour/][Lava Boat Tour 2]]
+   - [[http://www.kalapanaculturaltours.com/][Lava Boat Tour 3]]
    - [[https://www.bluehawaiian.com/][Blue Hawaii Helicopter Tour]]
    - [[https://paradisecopters.com/][Paradise Helicopter Tour]] 
+   - [[https://wanderwisdom.com/travel-destinations/Hidden-Hawaii-The-festive-night-market-in-Kalapana-on-the-Big-Island][Night Farmers' Market]]
