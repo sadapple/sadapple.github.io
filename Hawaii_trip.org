@@ -4,15 +4,15 @@
 *** 衣
     - 短衣短裤 或 其他凉爽衣裤
     - 泳衣泳裤（最好两套）
-    - 保暖一点的衣服，比如hard shell冲锋衣（在山上，清晨或晚上用），如果要去Mauna Kea Summit 天文台的话我看到有人建议穿羽绒服的...
-    - 雨衣，如果坐boat tour的话衣服是大概率被打湿的
+    - 保暖一点的衣服，比如hard shell冲锋衣（在山上，清晨或晚上用）
+    - 雨衣，optional
     - 帽子
     - 拖鞋
     - hiking用的鞋子
     - 背包和小包
 *** 行
-     - water-resistant sunscreen (SPF 30 或更高)
      - 浮潜设备
+     - water-resistant sunscreen (SPF 30 或更高)
      - 摄像摄影器材，有相机的可以考虑带备用电池
      - 移动硬盘
      - 充电宝
@@ -21,45 +21,11 @@
      - 国家公园 Passport （有的话带上盖戳用）
 ** 各小队实际携带的重要物品清单
 *** 涵+祖龙小队清单
-**** 潜水服（请备注颜色型号）
-
- 女式分体潜水服，编号潜A（这家款式较多，也可单独发我另外的款式）
-
- 电脑版地址：https://item.taobao.com/item.htm?spm=a1z0d.6639537.1997196601.80.3b0774845EiDNC&id=540291454473
-
- 手机版地址：€jhxBbaqAT5H€
-
- 男女连体潜水服，编号潜B
-
- 电脑版地址：https://detail.tmall.com/item.htm?spm=a1z0d.6639537.1997196601.91.3b0774845EiDNC&id=39864322334
-
- 手机版地址：€QuuZbaqyBFS€ 
-**** 脸基尼
-
- 游泳用脸基尼，编号脸A
-
- 电脑版地址：https://item.taobao.com/item.htm?spm=a1z0d.6639537.1997196601.4.28c27484ybKnsl&id=555530052392
-
- 手机版地址：€edqebaJXcHI€
-
- 日常用脸基尼，动物花色，编号脸B
-
- 电脑版地址：https://item.taobao.com/item.htm?spm=a1z0d.6639537.1997196601.16.28c27484ybKnsl&id=525167632863
-
- 手机版地址：€NxZLbaJbh3K€
-
- 日常用脸基尼，运动款，编号脸C
-
- 电脑版地址：https://detail.tmall.com/item.htm?spm=a1z0d.6639537.1997196601.28.28c27484ybKnsl&id=566978193969
-
- 手机版地址：€6neobaJYSmZ€
-**** 救生衣
- 充气式救生衣
-**** 浮潜管子（需备注赠送的浮潜袜子的大小）
- L: 35-57 XL: 38-40 XXL: 41-44
-
- 电脑版地址: https://detail.tmall.com/item.htm?id=40924637705&spm=a1z09.2.0.0.7d1f2e8dBmwsjD&_u=e2q1t169f4f（可选颜色）
-**** 火锅底料
+    - 潜水服
+    - 脸基尼
+    - 救生衣
+    - 浮潜管子
+    - 火锅底料
 *** 新泽西小队清单
     - 锅爱神
     - 现金
@@ -70,8 +36,12 @@
 ** 租车
    Mauna Kea Summit自驾的话要求四驱，现在三辆车可能不容易全部改成四驱，且改成四驱的费用大概率翻倍，有些租车公司甚至规定不让租车开上summit。
    所以可以考虑我们在大岛单租一天可以上summit的四驱。我做了一点study，网上比较推荐 [[http://www.harpershawaii.com/4wd.html][这一家]]。
-* 玩点推荐
-
+* 吃玩推荐
+** 吃
+*** 笑神推荐（大岛）
+    - big island grill 的 黑叉烧
+    - Da poke shack 的 小章鱼
+    - Ohelo Cafe 的 虾意面
 ** Hawaii Volcanoes National Park
    - Kilauea Volcano 
    - Mauna Loa Volcano
@@ -90,20 +60,20 @@
 
     目前能坐直升机tour的人不多，所以让大家一起行动的话这是一个可以考虑的选择。
     
-*** 陆地上看lava的点
-    一位当地网友前两天的叙述：
-    we live just a few miles away from the active flow and what other redditors
-    have said is true. you cannot walk to the lava legally, you will be fined.
-    or worse, there is still an ongoing search for a local man who got lost
-    hiking into the evacuated zone to take supplies to his friend. it's been a
-    couple of weeks and no sign of him. our terrain is treacherous even in the
-    areas where there isn't new lava with pukas (holes) and brittle, sharp lava
-    everywhere.
+*** 陆地上的lava viewing
+    # 一位当地网友前两天的叙述：
+    # we live just a few miles away from the active flow and what other redditors
+    # have said is true. you cannot walk to the lava legally, you will be fined.
+    # or worse, there is still an ongoing search for a local man who got lost
+    # hiking into the evacuated zone to take supplies to his friend. it's been a
+    # couple of weeks and no sign of him. our terrain is treacherous even in the
+    # areas where there isn't new lava with pukas (holes) and brittle, sharp lava
+    # everywhere.
 
-    kalapana lava tours for boats tours (try to get ikaika as your captain) or
-    paradise helicopter tours are your best and safest bets. then visit pahoa to
-    see the glow at night from downtown. not only that, you'll be spending money
-    in a community that needs it to help recover.
+    # kalapana lava tours for boats tours (try to get ikaika as your captain) or
+    # paradise helicopter tours are your best and safest bets. then visit pahoa to
+    # see the glow at night from downtown. not only that, you'll be spending money
+    # in a community that needs it to help recover.
 
     陆地上的话在Pahoa和Kalapana附近应该是有一些地方可以看到lava的。根据下面网友
     的叙述，Kalapana lava fields可能现在是部分accessible了。
@@ -126,6 +96,10 @@
 
     It is cheaper to pay the $200 helicopter tour vs a $5k fine. Which will give
     you a much better view from the air than it would be through the bush.
+
+    陆上看lava现下最重要的就是注意安全，有图如下
+
+    [[file:lava_viewing_warning.JPG]]
 
 ** Mauna Kea 观星
    游客中心大约海拔2800m，从那上到summit开车必须4WD，如果车不行的话可以报tour上去，但是不便宜且有限制，我的考虑是单租一天的4WD我们自己上去。
@@ -215,10 +189,10 @@ Magic sands beach park. (近机场)
 [[file:Day-6.jpg]]
 
 * 其他
-
+  
 ** 事项
    - 明信片(当地买)
-   - 邮票（可以先备好）
+   - 邮票（已备好）
    - 娱乐相关：Uno, Avalon
 
 
@@ -234,3 +208,4 @@ Magic sands beach park. (近机场)
    - [[https://www.bluehawaiian.com/][Blue Hawaii Helicopter Tour]]
    - [[https://paradisecopters.com/][Paradise Helicopter Tour]] 
    - [[https://wanderwisdom.com/travel-destinations/Hidden-Hawaii-The-festive-night-market-in-Kalapana-on-the-Big-Island][Night Farmers' Market]]
+     
