@@ -11,6 +11,7 @@
     - hiking用的鞋子
     - 背包和小包
 *** 行
+     - 必要证件(护照，身份证，驾照等等)
      - 浮潜设备
      - water-resistant sunscreen (SPF 30 或更高)
      - 摄像摄影器材，有相机的可以考虑带备用电池
@@ -36,6 +37,7 @@
 ** 租车
    Mauna Kea Summit自驾的话要求四驱，现在三辆车可能不容易全部改成四驱，且改成四驱的费用大概率翻倍，有些租车公司甚至规定不让租车开上summit。
    所以可以考虑我们在大岛单租一天可以上summit的四驱。我做了一点study，网上比较推荐 [[http://www.harpershawaii.com/4wd.html][这一家]]。
+
 * 吃玩推荐
 ** 吃
 *** 笑神推荐（大岛）
@@ -49,11 +51,6 @@
      公园目前除了南边的 Kahuku Unit，其他区域处于关闭状态
 ** 其他火山相关活动
    因为火山国家公园最著名的环火山区关闭，所以看lava有以下几个选择
-*** 直升机 tour
-    有一家叫blue Hawaii helicopter的公司， 网站 [[https://www.bluehawaiian.com/][在这里]] 。时间大约五十分钟。
-    除了火山lava之外也可以看到一些瀑布。
-  
-    其实国家公园官网有一个关于eruption的update视频，大家可以看一看，直升机上看火山大概就是那个样子。视频链接在 [[https://www.nps.gov/media/video/view.htm?id=2BAB933C-1DD8-B71B-0B382F87B9E61717][这里]] 。
 *** Lava Boat Tours
     直升机之外的另一个选择, 具体的tour有sunrise, sunset, morning lava, day time 可选，时间大约三小时。
     网站可参考 [[http://www.hawaiianlavaboattours.com/][这里]] ，[[http://www.kalapanaculturaltours.com/][这里]] 和 [[http://seelava.com/big-island-boat-tours/lava-boat-tour/][这里]]。 
@@ -100,6 +97,11 @@
     陆上看lava现下最重要的就是注意安全，有图如下
 
     [[file:lava_viewing_warning.JPG]]
+*** 直升机 tour
+    有一家叫blue Hawaii helicopter的公司， 网站 [[https://www.bluehawaiian.com/][在这里]] 。时间大约五十分钟。
+    除了火山lava之外也可以看到一些瀑布。
+  
+    其实国家公园官网有一个关于eruption的update视频，大家可以看一看，直升机上看火山大概就是那个样子。视频链接在 [[https://www.nps.gov/media/video/view.htm?id=2BAB933C-1DD8-B71B-0B382F87B9E61717][这里]] 。
 
 ** Mauna Kea 观星
    游客中心大约海拔2800m，从那上到summit开车必须4WD，如果车不行的话可以报tour上去，但是不便宜且有限制，我的考虑是单租一天的4WD我们自己上去。
@@ -107,31 +109,18 @@
 ** Waipio Valley
    Waipio Valley 里的 Waipio 在土著语中本意 *弯曲的河*, 此外也被称为国王谷。
    开车下到谷底的话必须4WD，所以我们可以考虑hiking下去，时间据说大概两小时。
-** Laupahoehoe Beach Park
 
+** South Point Park
+   
 ** Punalu'u Black Sand Beach
 
    看海龟
+** Laupahoehoe Beach Park
 
 ** Akaka Falls State Park
+   
+** Farmer's Market
 
-** South Point Park
-
-** Night Farmer's Market
-Residents of the Big Island's lower Puna love Wednesdays. Why, you ask? Because
-that's when the weekly farmers' market at Uncle Robert’s happens! Uncle Robert
-Keli'iho'omalu is the legendary and beloved patriarch of the old Kalapana
-village, and the market takes place at his family compound, located at the south
-end of the Red Road near the New Kaimu Black Sand Beach. Normally it’s a quiet
-neighborhood of quaint beach shacks and lush coconut groves, but on Wednesday
-night it transforms into a huge open-air market bustling with people eager for
-fresh produce, tasty food, and live music. It’s a lively market full of
-wonderful sounds, sights, and smells—not to mention lots of friendly aloha
-spirit—and everyone is welcome.
-
-  *Hours* : The Kalapana farmers' market runs every Wednesday night from 5 PM to 10 PM. 
-
-链接戳 [[https://wanderwisdom.com/travel-destinations/Hidden-Hawaii-The-festive-night-market-in-Kalapana-on-the-Big-Island][这里]]
 * 行程安排
 ** 7.24 Day 1 初来乍到
 参观Kailua-kona小镇，Shopping，寻找当地美食，接送小伙伴
@@ -168,7 +157,7 @@ Kalahuipua’a historic trail 古道
 [[file:Day-4-2.jpg]]
 
 
-** 7.28 Day 5 国王谷Wapio Valley 徒步之旅
+** 7.28 Day 5 国王谷Waipio Valley 徒步之旅
 
 主要景点：国王谷 scenic hiking trail with ocean view
 
@@ -189,23 +178,56 @@ Magic sands beach park. (近机场)
 [[file:Day-6.jpg]]
 
 * 其他
-  
-** 事项
+     
+
+** 历史背景 
+   
+*** 重要人物
+
+**** Captain Cook(James Cook)， 库克船长
+     英国皇家海军军官、航海家、探险家、制图师，是最早登陆夏威夷的西方人的代表，如今大岛上尚有以其命名的地名。关于他更多请参见 [[https://zh.wikipedia.org/wiki/詹姆斯·庫克][维基百科]]。
+
+**** Kamehameha I，卡美哈美哈一世 
+     统一了整个夏威夷群岛的人，夏威夷王国的开创者。更多请参见 [[https://en.wikipedia.org/wiki/Kamehameha_I][英文维基]] 和 [[https://zh.wikipedia.org/wiki/卡美哈梅哈一世][中文维基]]（相比英文简略很多）。
+** 夏威夷的语言
+
+
+*** 常见用语
+    - Aloha: hello, goodbye or a feeling of love
+    - Mahalo: thank you
+    - Kai: the sea
+    - Lani: sky or heaven
+    - Moana: ocean
+    - 'Ono: delicious, the best
+    - Nani: beautiful, pretty
+    - Hana: work
+    - Kane: boy or man
+    - Wahine: woman
+    - Wai: fresh water
+    - Wikiwiki: to hurry up
+    - Kokua: help
+    
+
+    有不懂的词，可以用 [[http://wehewehe.org/?l=en][这个]] 在线字典查询。
+*** 地名含义
+    - Mauna Kea: White Mountain
+    - Mauna Loa: Long Mountain
+    - Waipio: curved water
+** 其他事项
    - 明信片(当地买)
    - 邮票（已备好）
    - 娱乐相关：Uno, Avalon
-
 
 ** 有用的链接
 
    - [[https://www.nps.gov/havo/index.htm][火山国家公园官网]] 我们到的时候环火山区依然应该关闭，但这个网站的volcano alert信息可以适当关注。
    - [[https://volcanoes.usgs.gov/volcanoes/kilauea/multimedia_maps.html][Volcano Hazard Map]]  可以了解volcano lava flow 和 fissure 的情况
-   - [[http://www.harpershawaii.com/4wd.html][一个大岛当地提供租4WD的网站]] 
+   - [[http://wehewehe.org/?l=en][Hawaiian Dictionary]]
    - [[https://www.lovebigisland.com/stargazing/][Mauna Kea Summit Tour]] 我们应该不报tour，但这个网站提供的一些summit的信息可以参考。
+   - [[http://www.harpershawaii.com/4wd.html][一个大岛当地提供租4WD的网站]]
    - [[http://www.hawaiianlavaboattours.com/][Lava Boat Tour 1]] 
    - [[http://seelava.com/big-island-boat-tours/lava-boat-tour/][Lava Boat Tour 2]]
    - [[http://www.kalapanaculturaltours.com/][Lava Boat Tour 3]]
    - [[https://www.bluehawaiian.com/][Blue Hawaii Helicopter Tour]]
    - [[https://paradisecopters.com/][Paradise Helicopter Tour]] 
    - [[https://wanderwisdom.com/travel-destinations/Hidden-Hawaii-The-festive-night-market-in-Kalapana-on-the-Big-Island][Night Farmers' Market]]
-     
