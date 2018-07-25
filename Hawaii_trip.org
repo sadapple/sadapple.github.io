@@ -104,8 +104,20 @@
     其实国家公园官网有一个关于eruption的update视频，大家可以看一看，直升机上看火山大概就是那个样子。视频链接在 [[https://www.nps.gov/media/video/view.htm?id=2BAB933C-1DD8-B71B-0B382F87B9E61717][这里]] 。
 
 ** Mauna Kea 观星
-   游客中心大约海拔2800m，从那上到summit开车必须4WD，如果车不行的话可以报tour上去，但是不便宜且有限制，我的考虑是单租一天的4WD我们自己上去。
+   游客中心大约海拔2800m，从那上到summit开车必须4WD，可以考虑单租一天的4WD我们自己上去。
    关于summit [[https://www.lovebigisland.com/stargazing/][这里]] 有一些信息。 4WD租车的话请看上面的 *租车* 小节。
+
+   
+*** Tips and Notes
+    - 加满油。在saddle road上没有gas。
+    - saddle road一路的地貌变化值得观察。
+    - Mauna Kea Recreation Area 大概在mile marker 34处。在这个区域内注意不要超速，因为有限速55直接掉到45的路段。
+    - 上summit前留意天气update。可以打 808-935-6268 或者戳 [[http://mkwc.ifa.hawaii.edu/][这里]]。
+    - Subaru Telescope需要提前预约，我们应该没戏。但还有Keck Telescope提供内部参观，时间是 weekday 10 am 到 4 pm。
+    - actual summit可以从uiversity of Hawaii observatory出发hike五到十分钟到达。
+    - summit附近有 Wai-au湖
+    - visitor information station 可以买到食物以及保暖衣服。登顶前可以在这里做装备和休整。
+    - 开车上summit前多喝点水，有太阳镜的带上太阳镜，减少summit的uv ray辐射。
 ** Waipio Valley
    Waipio Valley 里的 Waipio 在土著语中本意 *弯曲的河*, 此外也被称为国王谷。
    开车下到谷底的话必须4WD，所以我们可以考虑hiking下去，时间据说大概两小时。
